@@ -1,2 +1,2 @@
-const urlServer = "http://localhost:8080";
+const urlServer = "https://api-admin.fly.dev";
 export default urlServer;
